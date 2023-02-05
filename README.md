@@ -21,7 +21,6 @@ As for the chat between sender and receiver and their timestamps:
 
 ![](https://github.com/kendrickchibueze/SQL-WhatsAppDB-Model/blob/main/SR-Chat.png?raw=true)
 
-
 ## Knowledge Share👌📜📜📜
 * Users table to store user information such as phone number, name, profile picture, etc.
 
