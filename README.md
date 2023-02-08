@@ -43,7 +43,7 @@ As for the chat between sender and receiver and their timestamps:
 
 * **One-to-many** relationship between **Users table and Messages table**, where one user can participate in many messages.
 
-* **Many-to-many** relationship between **Users table and Contacts table**, where one user can have many contacts, and one contact can belong to many users.
+* **One-to-many** relationship between **Users table and Contacts table**, where one user can have many contacts, and one contact can belong to many users.
 
 * **One-to-many** relationship between **Messages table and Group Members table**, where one message conversation can be responded by many group members.
 
